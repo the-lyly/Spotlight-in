@@ -165,10 +165,10 @@
             <mxPoint x="-5" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_lRKb1W_cgjyENxH41tC-24" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;fontColor=default;strokeColor=#A8201A;" parent="1" target="IXScqyaC7T3C9ujB_nA8-28" edge="1">
+        <mxCell id="_lRKb1W_cgjyENxH41tC-24" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;fontColor=default;strokeColor=#A8201A;" parent="1" target="IXScqyaC7T3C9ujB_nA8-30" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="235" y="294.5" as="sourcePoint" />
-            <mxPoint x="350" y="294.5" as="targetPoint" />
+            <mxPoint x="410" y="300" as="sourcePoint" />
+            <mxPoint x="607.5" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_lRKb1W_cgjyENxH41tC-25" value="affiche info bdd" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#143642;" parent="_lRKb1W_cgjyENxH41tC-24" vertex="1" connectable="0">
@@ -198,10 +198,10 @@
             <mxPoint x="-5" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_lRKb1W_cgjyENxH41tC-41" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;fontColor=default;strokeColor=#A8201A;" parent="1" edge="1">
+        <mxCell id="_lRKb1W_cgjyENxH41tC-41" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;fontColor=default;strokeColor=#A8201A;" parent="1" edge="1" target="IXScqyaC7T3C9ujB_nA8-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="236" y="394.5" as="sourcePoint" />
-            <mxPoint x="414" y="395" as="targetPoint" />
+            <mxPoint x="410" y="400" as="sourcePoint" />
+            <mxPoint x="598" y="400.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_lRKb1W_cgjyENxH41tC-42" value="affiche info bdd" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#143642;" parent="_lRKb1W_cgjyENxH41tC-41" vertex="1" connectable="0">
@@ -220,10 +220,13 @@
             <mxPoint x="-5" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_lRKb1W_cgjyENxH41tC-45" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;fontColor=default;strokeColor=#A8201A;" parent="1" edge="1">
+        <mxCell id="_lRKb1W_cgjyENxH41tC-45" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;fontColor=default;strokeColor=#A8201A;" parent="1" edge="1" target="IXScqyaC7T3C9ujB_nA8-30" source="IXScqyaC7T3C9ujB_nA8-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="236" y="504.5" as="sourcePoint" />
-            <mxPoint x="414" y="505" as="targetPoint" />
+            <mxPoint x="410" y="460" as="sourcePoint" />
+            <mxPoint x="641" y="460.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="500" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_lRKb1W_cgjyENxH41tC-46" value="affiche info bdd" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#143642;" parent="_lRKb1W_cgjyENxH41tC-45" vertex="1" connectable="0">
