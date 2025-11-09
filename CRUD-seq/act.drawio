@@ -29,7 +29,7 @@
           <mxGeometry x="400" y="120" width="100" height="1260" as="geometry" />
         </mxCell>
         <mxCell id="IXScqyaC7T3C9ujB_nA8-31" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="IXScqyaC7T3C9ujB_nA8-30" vertex="1">
-          <mxGeometry x="45" y="70" width="10" height="1150" as="geometry" />
+          <mxGeometry x="45" y="70" width="10" height="1060" as="geometry" />
         </mxCell>
         <mxCell id="hHMp78z5H-8sdvXXsZum-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;elbow=vertical;" parent="IXScqyaC7T3C9ujB_nA8-30" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -91,7 +91,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IXScqyaC7T3C9ujB_nA8-49" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
-          <mxGeometry x="100" y="230" width="10" height="1120" as="geometry" />
+          <mxGeometry x="100" y="230" width="10" height="1020" as="geometry" />
         </mxCell>
         <mxCell id="wotLFs-MYZkPrFypbB19-5" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;fontColor=default;strokeColor=#A8201A;" parent="1" target="IXScqyaC7T3C9ujB_nA8-31" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
